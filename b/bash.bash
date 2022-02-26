@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Hello, World!"    # This is an inline comment
 
 # This
