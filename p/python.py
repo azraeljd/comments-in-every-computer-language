@@ -1,9 +1,10 @@
-print("Hello, World!")    # This is an inline comment
+"""
+This is a multi line comment, but having triple quotes and
+being the first statement in this program, this comment will
+appear in the program's docstring.
+"""
 
-"""
-This is a multi line comment,
-but this comment will appear in the program's __doc__ string.
-"""
+print("Hello, World!")    # This is an inline comment
 
 # This
 # is
