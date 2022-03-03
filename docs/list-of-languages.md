@@ -1,0 +1,24 @@
+# Languages
+- AppleScript
+- Arduino
+- AWK
+- Bash
+- BASIC
+- C++
+- C
+- C Shell
+- Fortran 90
+- GNU Smalltalk
+- Haskell
+- HTML
+- Korn Shell
+- LOLCODE
+- Lua
+- MATLAB
+- Pascal
+- POSIX Shell
+- Python
+- Ruby
+- TENEX C Shell
+- Vimscript
+- Z Shell
