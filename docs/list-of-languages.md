@@ -4,6 +4,7 @@
 - AWK
 - Bash
 - BASIC
+- Batchfile
 - C++
 - C
 - C Shell
