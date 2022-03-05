@@ -20,6 +20,7 @@
 - POSIX Shell
 - Python
 - Ruby
+- Rust
 - TENEX C Shell
 - Vimscript
 - Z Shell
