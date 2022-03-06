@@ -1,26 +1,26 @@
 # Languages
-- AppleScript
-- Arduino
-- AWK
-- Bash
-- BASIC
-- Batchfile
-- C++
-- C
-- C Shell
-- Fortran 90
-- GNU Smalltalk
-- Haskell
-- HTML
-- Korn Shell
-- LOLCODE
-- Lua
-- MATLAB
-- Pascal
-- POSIX Shell
-- Python
-- Ruby
-- Rust
-- TENEX C Shell
-- Vimscript
-- Z Shell
+- [AppleScript](../a/applescript.scpt)
+- [Arduino](../a/arduino.ino)
+- [AWK](../a/awk.awk)
+- [Bash](../b/bash.bash)
+- [BASIC](../b/basic.bas)
+- [Batchfile](../b/batchfile.bat)
+- [C++](../c/c++.cpp)
+- [C](../c/c.c)
+- [C Shell](../c/c_shell.csh)
+- [Fortran 90](../f/fortran_90.f90)
+- [GNU Smalltalk](../g/gnu_smalltalk.st)
+- [Haskell](../h/haskell.hs)
+- [HTML](../h/html.html)
+- [Korn Shell](../k/korn_shell.ksh)
+- [LOLCODE](../l/lolcode.lol)
+- [Lua](../l/lua.lua)
+- [MATLAB](../m/matlab.m)
+- [Pascal](../p/pascal.pas)
+- [POSIX Shell](../p/posix_shell.sh)
+- [Python](../p/python.py)
+- [Ruby](../r/ruby.rb)
+- [Rust](../r/rust.rs)
+- [TENEX C Shell](../t/tenex_c_shell.tcsh)
+- [Vimscript](../v/vimscript.vim)
+- [Z Shell](../z/z_shell.zsh)
