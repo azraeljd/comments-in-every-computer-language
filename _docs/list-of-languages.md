@@ -22,6 +22,7 @@
 - [Python](../p/python.py)
 - [Ruby](../r/ruby.rb)
 - [Rust](../r/rust.rs)
+- [SPWN](../s/spwn.spwn)
 - [TENEX C Shell](../t/tenex_c_shell.tcsh)
 - [Vimscript](../v/vimscript.vim)
 - [Z Shell](../z/z_shell.zsh)
