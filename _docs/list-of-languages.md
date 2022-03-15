@@ -13,6 +13,7 @@
 - [GNU Smalltalk](../g/gnu_smalltalk.st)
 - [Haskell](../h/haskell.hs)
 - [HTML](../h/html.html)
+- [JavaScript](../j/javascript.js)
 - [Korn Shell](../k/korn_shell.ksh)
 - [LOLCODE](../l/lolcode.lol)
 - [Lua](../l/lua.lua)
