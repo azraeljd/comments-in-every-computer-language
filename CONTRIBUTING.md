@@ -17,7 +17,7 @@ create the file according to the language version, for example: `python_2.py` fo
 comments in Python 2, and `python_3.py` for comments in Python 3.
 ### Libraries and Frameworks
 A lot of programming languages have libraries or frameworks, for example JavaScript
-libraries which are displayed as a different language in
+frameworks which are displayed as a different language in
 [GitHub Linguist](../../../../github/linguist). Libraries and frameworks should not
 have their own comments, unless their comment syntax is different from the original
 programming language.
