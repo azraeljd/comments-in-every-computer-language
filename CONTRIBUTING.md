@@ -15,3 +15,9 @@ Computer languages may differ from a version to another, for example: Python 2 a
 Python 3 have different syntaxes. When adding a new version of a language, you must
 create the file according to the language version, for example: `python_2.py` for
 comments in Python 2, and `python_3.py` for comments in Python 3.
+### Libraries and Frameworks
+A lot of programming languages have libraries or frameworks, for example JavaScript
+libraries which are displayed as a different language in
+[GitHub Linguist](../../../../github/linguist). Libraries and frameworks should not
+have their own comments, unless their comment syntax is different from the original
+programming language.
